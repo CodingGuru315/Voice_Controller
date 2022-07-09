@@ -1,0 +1,11 @@
+You can control your windows, mac, linux volume with your fingers using this program. Just you need is a compatible python version and all the required modules that are listed below:
+
+cv2
+mediapipe
+numpy
+math
+ctypes
+comtypes
+pycaw
+
+download these module with the help of pip and run the program using any ide or command prompt.
